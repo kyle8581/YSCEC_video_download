@@ -3,7 +3,7 @@ now you can download streaming videos from YSCEC
 
 1. <h1>필요한 것</h1>
   - python3 이상
-  - requests
+  - requests (pip/ pip3 install requests 해주세요)
   - Chrome
  
 2. <h1>사용 방법</h1></br>
