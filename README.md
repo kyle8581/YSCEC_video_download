@@ -1,5 +1,5 @@
 # YSCEC_video_download
-you can download streaming video from YSCEC
+now you can download streaming videos from YSCEC
 
 1. <h1>필요한 것</h1>
   - python3 이상
