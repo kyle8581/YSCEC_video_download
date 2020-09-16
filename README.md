@@ -5,6 +5,7 @@ now you can download streaming videos from YSCEC
   - python3 이상
   - requests (pip/ pip3 install requests 해주세요)
   - Chrome
+  - **자기 신상이 걱정된다면 VPN 사용하세요**
  
 2. <h1>사용 방법</h1></br>
   윈도우는 cmd, macos는 터미널을 여시고 git clone https://github.com/HyoungjooChae/YSCEC_video_download.git 로 코드를 다운받으세요.</br>
