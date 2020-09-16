@@ -17,7 +17,7 @@ now you can download streaming videos from YSCEC
   - 아까 복사해둔 url에서 /media_xx.ts부분을 지운뒤 입력해주세요.</br>
   - 생성할 동영상 파일명을 입력해 주세요.</br>
   - 조금 기다리면 동영상 다운로드가 완료됩니다.(40초 정도 소요)</br>
-  ![image](https://user-images.githubusercontent.com/51402122/93301858-00956500-f834-11ea-936a-b788976144dd.png)
-  ![image](https://user-images.githubusercontent.com/51402122/93301930-1f93f700-f834-11ea-83e3-33b349f23609.png)
+ ![image](https://user-images.githubusercontent.com/51402122/93374559-d5d9f980-f891-11ea-9727-9af9c6a33e02.png)
+
 
   
