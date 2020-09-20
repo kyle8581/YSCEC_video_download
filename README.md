@@ -8,7 +8,7 @@ now you can download streaming videos from YSCEC
   - **자기 신상이 걱정된다면 VPN 사용하세요**
  
 2. <h1>사용 방법</h1></br>
-  **파이썬이고 뭐고 복잡하신 분들은 dist/download_video.exe 실행파일을 쓰시면 됩니다.**
+  ***파이썬이고 뭐고 복잡하신 분들은 dist/download_video.exe 실행파일을 쓰시면 됩니다. 윈도우 보안 프로그램에서 허락없이 설치된 프로그램이라고 실행을 막을 수 있는데 Window Defender를 잠깐 끄고 실행해 주세요.***
   - 윈도우는 cmd, macos는 터미널을 여시고 </br>
   git clone https://github.com/HyoungjooChae/YSCEC_video_download.git 또는 초록색 버튼을 클릭하면 보이는 Download Zip 으로 코드를 다운받으세요.</br>
   크롬으로 YSCEC에 접속하여 다운받고 싶은 강의 영상을 재생시킵니다.</br>
